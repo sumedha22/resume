@@ -9,12 +9,12 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Homer J. Simpson"
-resume_title:                   "Nuclear Safety Inspector"
+resume_avatar:                  "false"
+resume_name:                    "Sumedha Gupta"
+resume_title:                   ""
 resume_contact_email:
-  "homerjsimpson@youremailaddress.com"
-resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
+  "sgupta50@hawk.iit.edu"
+resume_header_contact_info: "501 E 32ND ST, Chicago,IL,60616 | 312-8717684 | sgupta50@hawk.iit.edu"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -28,20 +28,20 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_github_url:            "https://github.com/sumedha22"
+  #resume_twitter_url:           "false"
+  # resume_dribbble_url:          "false"
+  resume_facebook_url:          "https://www.facebook.com/sam22y"
+  resume_linkedin_url:          "https://www.linkedin.com/in/sumedha-gupta"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  # resume_website_url:           "http://joelglovier.com"
 resume_print_social_links:      true
 
 # Design settings
